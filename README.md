@@ -40,16 +40,15 @@
 * [Bayesian Statistics](https://www.coursera.org/learn/bayesian) (Duke)
 
 ## EdX
-* Microsoftx-
-  * https://www.edx.org/microsoft-professional-program-certficate-data-science
+* [Microsoft Professional Program Certificate in Data Science](https://www.edx.org/microsoft-professional-program-certficate-data-science)
 * MITx-
-  * 15-053x (Business Optimization)
-  * 15-071x (Analytic Edge)
-  * 6-041x (Probability)
-  * CaltechX-cs1156x (intro machine learning)
-  * ColumbiaX-csmm-102x (Machine Learning)
-  * ColumbiaX-ds102x (Machine Learning)
-  * GTx-cs1301x (Intro to Computing using Python)
+  * [Optimization Methods for Business Analytics (15-053x)](https://www.edx.org/course/optimization-methods-business-analytics-mitx-15-053x)
+  * [The Analytics Edge (15-071x)](https://www.edx.org/course/analytics-edge-mitx-15-071x)
+  * [Introduction to Probability - The Science of Uncertainty (6-041x)](https://www.edx.org/course/introduction-probability-science-mitx-6-041x)
+* [Learning From Data: Introductory Machine Learning (CaltechX-cs1156x)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
+* [Machine Learning (ColumbiaX-csmm-102x)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x)
+* [Machine Learning for Data Science and Analytics (ColumbiaX-ds102x)](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)
+* [MicroMasters in Analytics (GA Tech)](https://www.edx.org/micromasters/analytics-essential-tools-methods) - 3 courses
 
 ## Big Data University
 * https://bigdatauniversity.com/courses/introduction-to-scala/
