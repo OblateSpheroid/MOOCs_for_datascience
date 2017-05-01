@@ -1,6 +1,7 @@
 # MOOCs for Data Science
+Contributions welcome. Please fork, edit, and submit pull request in order to add/fix courses.
 
-## COURSERA:
+## COURSERA
 * [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (UMich)
 * [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) (UMich)
   * [Course 1](https://www.coursera.org/learn/python-data-analysis), [Course 2](https://www.coursera.org/learn/python-plotting), [Course 3](https://www.coursera.org/learn/python-text-mining), [Course 4](https://www.coursera.org/learn/python-machine-learning), [Course 5](https://www.coursera.org/learn/python-social-network-analysis)
