@@ -1,18 +1,18 @@
 # MOOCs for Data Science
 
 ## UDACITY
-* Intro to Computer Science - cs101
-* Intro to Algorithms - cs215
-* Intro to Data Analysis - ud170
-* Intro to Data Science - ud359
-* How to Use Git and Github - ud775
-* Intro to Machine Learning - ud120
-* Intro to Artificial Intelligence - cs271
-* Deep Learning - ud730 (Google)
-* Machine Learning - ud262 (GT)
-* Unsupervised Learning - ud741 (GT)
-* Reinforcement Learning - ud600 (GT)
-* Model Building and Validation - ud919
+* [Intro to Computer Science - cs101](https://www.udacity.com/course/intro-to-computer-science--cs101)
+* [Intro to Algorithms - cs215](https://www.udacity.com/course/intro-to-algorithms--cs215)
+* [Intro to Data Analysis - ud170](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+* [Intro to Data Science - ud359](https://www.udacity.com/course/intro-to-data-science--ud359)
+* [How to Use Git and Github - ud775](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Intro to Machine Learning - ud120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [Intro to Artificial Intelligence - cs271](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* [Deep Learning - ud730 (Google)](https://www.udacity.com/course/deep-learning--ud730)
+* [Machine Learning - ud262 (GT)](https://www.udacity.com/course/machine-learning--ud262)
+* [Unsupervised Learning - ud741 (GT)](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+* [Reinforcement Learning - ud600 (GT)](https://www.udacity.com/course/reinforcement-learning--ud600)
+* [Model Building and Validation - ud919](https://www.udacity.com/course/model-building-and-validation--ud919)
 
 
 ## COURSERA:
@@ -40,7 +40,8 @@
 * [Bayesian Statistics](https://www.coursera.org/learn/bayesian) (Duke)
 
 ## EdX
-* [Microsoft Professional Program Certificate in Data Science](https://www.edx.org/microsoft-professional-program-certficate-data-science)
+* [MicroMasters in Analytics (GA Tech)](https://www.edx.org/micromasters/analytics-essential-tools-methods) - 3 courses
+* [Microsoft Professional Program Certificate in Data Science](https://www.edx.org/microsoft-professional-program-certficate-data-science) - 9 courses
 * MITx-
   * [Optimization Methods for Business Analytics (15-053x)](https://www.edx.org/course/optimization-methods-business-analytics-mitx-15-053x)
   * [The Analytics Edge (15-071x)](https://www.edx.org/course/analytics-edge-mitx-15-071x)
@@ -48,27 +49,25 @@
 * [Learning From Data: Introductory Machine Learning (CaltechX-cs1156x)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)
 * [Machine Learning (ColumbiaX-csmm-102x)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x)
 * [Machine Learning for Data Science and Analytics (ColumbiaX-ds102x)](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)
-* [MicroMasters in Analytics (GA Tech)](https://www.edx.org/micromasters/analytics-essential-tools-methods) - 3 courses
 
 ## Big Data University
-* https://bigdatauniversity.com/courses/introduction-to-scala/
-* https://bigdatauniversity.com/courses/data-science-scala/
-* https://bigdatauniversity.com/courses/introduction-deep-learning/
-* https://bigdatauniversity.com/courses/deep-learning-tensorflow/
-
+* [Scala 101](https://bigdatauniversity.com/courses/introduction-to-scala/)
+* [Data Science with Scala](https://bigdatauniversity.com/courses/data-science-scala/)
+* [Deep Learning 101](https://bigdatauniversity.com/courses/introduction-deep-learning/)
+* [Deep Learning with TensorFlow](https://bigdatauniversity.com/courses/deep-learning-tensorflow/)
 
 ## Lagunita (Stanford)
-* https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
-* https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about
-* https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about
+* [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+* [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
+* [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 
 
 ## Other Sources
-* David Malan's courses (http://cs.harvard.edu/malan/courses)
-* Harvard CS109: https://cs109.github.io/2015/pages/videos.html
-* CS courses listed here: http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html
-* http://cs.brown.edu/courses/cs053/current/lectures.htm
-* http://lectures.quantecon.org/
-* http://course.fast.ai (https://github.com/fastai/courses.git)
-* https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/
-* https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
+* [David Malan's courses](http://cs.harvard.edu/malan/courses)
+* [Harvard CS109](https://cs109.github.io/2015/pages/videos.html)
+* [List of CS courses](http://blog.agupieware.com/2014/06/online-learning-intensive-bachelors.html)
+* [Coding the Matrix (Brown CS-53)](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/)
+* [Quantitative Economics](http://lectures.quantecon.org/)
+* [Practical Deep Learning For Coders, Part 1](http://course.fast.ai)
+* [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/)
+* [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
