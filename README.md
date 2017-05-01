@@ -1,23 +1,9 @@
 # MOOCs for Data Science
 
-## UDACITY
-* [Intro to Computer Science - cs101](https://www.udacity.com/course/intro-to-computer-science--cs101)
-* [Intro to Algorithms - cs215](https://www.udacity.com/course/intro-to-algorithms--cs215)
-* [Intro to Data Analysis - ud170](https://www.udacity.com/course/intro-to-data-analysis--ud170)
-* [Intro to Data Science - ud359](https://www.udacity.com/course/intro-to-data-science--ud359)
-* [How to Use Git and Github - ud775](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
-* [Intro to Machine Learning - ud120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-* [Intro to Artificial Intelligence - cs271](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
-* [Deep Learning - ud730 (Google)](https://www.udacity.com/course/deep-learning--ud730)
-* [Machine Learning - ud262 (GT)](https://www.udacity.com/course/machine-learning--ud262)
-* [Unsupervised Learning - ud741 (GT)](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
-* [Reinforcement Learning - ud600 (GT)](https://www.udacity.com/course/reinforcement-learning--ud600)
-* [Model Building and Validation - ud919](https://www.udacity.com/course/model-building-and-validation--ud919)
-
-
 ## COURSERA:
 * [Python for Everybody Specialization](https://www.coursera.org/specializations/python) (UMich)
 * [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) (UMich)
+  * [Course 1](https://www.coursera.org/learn/python-data-analysis), [Course 2](https://www.coursera.org/learn/python-plotting), [Course 3](https://www.coursera.org/learn/python-text-mining), [Course 4](https://www.coursera.org/learn/python-machine-learning), [Course 5](https://www.coursera.org/learn/python-social-network-analysis)
 * [Natural Language Processing](https://www.coursera.org/learn/natural-language-processing) (UMich)
 * [Data Science in R Spcialization](https://www.coursera.org/specializations/jhu-data-science) (Johns Hopkins)
 * [Linear Models 1](https://www.coursera.org/learn/linear-models) (Johns Hopkins)
@@ -50,6 +36,20 @@
 * [Machine Learning (ColumbiaX-csmm-102x)](https://www.edx.org/course/machine-learning-columbiax-csmm-102x)
 * [Machine Learning for Data Science and Analytics (ColumbiaX-ds102x)](https://www.edx.org/course/machine-learning-data-science-analytics-columbiax-ds102x-1)
 
+## UDACITY
+* [Intro to Computer Science - cs101](https://www.udacity.com/course/intro-to-computer-science--cs101)
+* [Intro to Algorithms - cs215](https://www.udacity.com/course/intro-to-algorithms--cs215)
+* [Intro to Data Analysis - ud170](https://www.udacity.com/course/intro-to-data-analysis--ud170)
+* [Intro to Data Science - ud359](https://www.udacity.com/course/intro-to-data-science--ud359)
+* [How to Use Git and Github - ud775](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+* [Intro to Machine Learning - ud120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [Intro to Artificial Intelligence - cs271](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+* [Deep Learning - ud730 (Google)](https://www.udacity.com/course/deep-learning--ud730)
+* [Machine Learning - ud262 (GT)](https://www.udacity.com/course/machine-learning--ud262)
+* [Unsupervised Learning - ud741 (GT)](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741)
+* [Reinforcement Learning - ud600 (GT)](https://www.udacity.com/course/reinforcement-learning--ud600)
+* [Model Building and Validation - ud919](https://www.udacity.com/course/model-building-and-validation--ud919)
+
 ## Big Data University
 * [Scala 101](https://bigdatauniversity.com/courses/introduction-to-scala/)
 * [Data Science with Scala](https://bigdatauniversity.com/courses/data-science-scala/)
@@ -62,7 +62,6 @@
 * [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
 * [Principles of Computing](https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/about)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)
-
 
 ## Other Sources
 * [David Malan's courses](http://cs.harvard.edu/malan/courses)
