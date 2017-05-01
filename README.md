@@ -58,8 +58,10 @@
 
 ## Lagunita (Stanford)
 * [Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
-* [Probability and Statistics](https://lagunita.stanford.edu/courses/OLI/ProbStat/Open/about)
+* [Probability and Statistics](https://lagunita.stanford.edu/courses/course-v1:OLI+ProbStat+Open_Jan2017/about)
 * [Mining Massive Datasets](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+MMDS+SelfPaced/about)
+* [Principles of Computing](https://lagunita.stanford.edu/courses/OLI/PrinciplesOfComputing/Open/about)
+* [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about)
 
 
 ## Other Sources
