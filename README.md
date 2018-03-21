@@ -51,6 +51,11 @@ Contributions welcome. Please fork, edit, and submit pull request in order to ad
 * [Reinforcement Learning - ud600 (GT)](https://www.udacity.com/course/reinforcement-learning--ud600)
 * [Model Building and Validation - ud919](https://www.udacity.com/course/model-building-and-validation--ud919)
 
+## Fast.ai
+* [Deep Learning, Part 1](http://course.fast.ai/)
+* [Deep Learning, Part 2](http://course.fast.ai/part2.html)
+* Computational Linear Algebra: [Text](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md) and [Videos](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+
 ## Big Data University
 * [Scala 101](https://bigdatauniversity.com/courses/introduction-to-scala/)
 * [Data Science with Scala](https://bigdatauniversity.com/courses/data-science-scala/)
